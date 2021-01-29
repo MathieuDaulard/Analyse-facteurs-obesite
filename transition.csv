@@ -1,0 +1,325 @@
+,Origin,New_value,Country Code
+0,Afghanistan,Afghanistan,AFG
+126,Albania,Albania,ALB
+252,Algeria,Algeria,DZA
+41130,American Samoa,American Samoa,ASM
+378,Andorra,Andorra,AND
+504,Angola,Angola,AGO
+109515,Anguilla,Anguilla,AIA
+630,Antigua and Barbuda,Antigua and Barbuda,ATG
+41370,Arab World,Arab World,
+756,Argentina,Argentina,ARG
+882,Armenia,Armenia,ARM
+41550,Aruba,Aruba,ABW
+1008,Australia,Australia,AUS
+1134,Austria,Austria,AUT
+1260,Azerbaijan,Azerbaijan,AZE
+1386,Bahamas,Bahamas,BHS
+41790,"Bahamas, The",Bahamas,BHS
+1512,Bahrain,Bahrain,BHR
+1638,Bangladesh,Bangladesh,BGD
+1764,Barbados,Barbados,BRB
+1890,Belarus,Belarus,BLR
+2016,Belgium,Belgium,BEL
+2142,Belize,Belize,BLZ
+2268,Benin,Benin,BEN
+42270,Bermuda,Bermuda,BMU
+2394,Bhutan,Bhutan,BTN
+24690,Bolivia,Bolivia,BOL
+2520,Bolivia (Plurinational State of),Bolivia,BOL
+2646,Bosnia and Herzegovina,Bosnia and Herzegovina,BIH
+2772,Botswana,Botswana,BWA
+2898,Brazil,Brazil,BRA
+42630,British Virgin Islands,British Virgin Islands,VGB
+24714,Brunei,Brunei,BRN
+3024,Brunei Darussalam,Brunei,BRN
+3150,Bulgaria,Bulgaria,BGR
+3276,Burkina Faso,Burkina Faso,BFA
+3402,Burundi,Burundi,BDI
+3528,Cabo Verde,Cabo Verde,CPV
+3654,Cambodia,Cambodia,KHM
+3780,Cameroon,Cameroon,CMR
+3906,Canada,Canada,CAN
+24756,Cape Verde,Cabo Verde,CPV
+43170,Caribbean small states,Caribbean small states,
+43230,Cayman Islands,Cayman Islands,CYM
+4032,Central African Republic,Central African Republic,CAF
+43350,Central Europe and the Baltics,Central Europe and the Baltics,
+4158,Chad,Chad,TCD
+43470,Channel Islands,Channel Islands,
+4284,Chile,Chile,CHL
+4410,China,China,CHN
+111199,"China, Hong Kong SAR","China, Hong Kong",HKG
+111248,"China, Macao SAR","China, Macao",MAC
+73314,"China, Taiwan Province of","China, Taiwan",TWN
+111297,"China, mainland","China, mainland",CHN
+4536,Colombia,Colombia,COL
+4662,Comoros,Comoros,COM
+4788,Congo,Congo,COG
+43770,"Congo, Dem. Rep.","Congo, Dem. Rep.",COD
+43830,"Congo, Rep.",Congo,COG
+4914,Cook Islands,Cook Islands,COK
+5040,Costa Rica,Costa Rica,CRI
+24810,Cote d'Ivoire,Cote d'Ivoire,CVI
+5166,Croatia,Croatia,HRV
+5292,Cuba,Cuba,CUB
+44130,Curacao,Curacao,CUW
+111718,Curaçao,Curacao,CUW
+5418,Cyprus,Cyprus,CYP
+24834,Czech Republic,Czech Republic,CZE
+5544,Czechia,Czech Republic,CZE
+111810,Czechoslovakia,Czechoslovakia,CSK
+5670,Côte d'Ivoire,Cote d'Ivoire,CRI
+5796,Democratic People's Republic of Korea,North Korea,PRK
+24840,Democratic Republic of Congo,"Congo, Dem. Rep.",COM
+5922,Democratic Republic of the Congo,"Congo, Dem. Rep.",COM
+6048,Denmark,Denmark,DNK
+6174,Djibouti,Djibouti,DJI
+6300,Dominica,Dominica,DMA
+6426,Dominican Republic,Dominican Republic,DOM
+44550,Early-demographic dividend,Early-demographic dividend,
+44610,East Asia & Pacific,East Asia & Pacific,
+44670,East Asia & Pacific (IDA & IBRD countries),East Asia & Pacific (IDA & IBRD countries),
+44730,East Asia & Pacific (excluding high income),East Asia & Pacific (excluding high income),
+6552,Ecuador,Ecuador,ECU
+6678,Egypt,Egypt,EGY
+44850,"Egypt, Arab Rep.",Egypt,EGY
+6804,El Salvador,Salvador,VCT
+6930,Equatorial Guinea,Equatorial Guinea,GNQ
+7056,Eritrea,Eritrea,ERI
+7182,Estonia,Estonia,EST
+7308,Eswatini,Eswatini,SWZ
+7434,Ethiopia,Ethiopia,ETH
+112457,Ethiopia PDR,Ethiopia PDR,ETH
+45270,Euro area,Euro area,
+45330,Europe & Central Asia,Europe & Central Asia,
+45390,Europe & Central Asia (IDA & IBRD countries),Europe & Central Asia (IDA & IBRD countries),
+45450,Europe & Central Asia (excluding high income),Europe & Central Asia (excluding high income),
+45510,European Union,European Union,
+45570,Faroe Islands,Faroe Islands,FRO
+7560,Fiji,Fiji,FJI
+7686,Finland,Finland,FIN
+45750,Fragile and conflict affected situations,Fragile and conflict affected situations,
+7812,France,France,FRA
+45870,French Polynesia,French Polynesia,PYF
+7938,Gabon,Gabon,GAB
+8064,Gambia,Gambia,GMB
+45990,"Gambia, The","Gambia, The",GMB
+8190,Georgia,Georgia,GEO
+8316,Germany,Germany,DEU
+8442,Ghana,Ghana,GHA
+46230,Gibraltar,Gibraltar,GIB
+8568,Greece,Greece,GRC
+46350,Greenland,Greenland,GRL
+8694,Grenada,Grenada,GRD
+46470,Guam,Guam,GUM
+8820,Guatemala,Guatemala,GTM
+8946,Guinea,Guinea,GIN
+9072,Guinea-Bissau,Guinea-Bissau,GNB
+9198,Guyana,Guyana,GUY
+9324,Haiti,Haiti,HTI
+46830,Heavily indebted poor countries (HIPC),Heavily indebted poor countries (HIPC),
+46890,High income,High income,
+9450,Honduras,Honduras,HND
+47010,"Hong Kong SAR, China","China, Hong Kong",HKG
+9576,Hungary,Hungary,HUN
+47130,IBRD only,IBRD only,
+47190,IDA & IBRD total,IDA & IBRD total,
+47250,IDA blend,IDA blend,
+47310,IDA only,IDA only,
+47370,IDA total,IDA total,
+9702,Iceland,Iceland,ISL
+9828,India,India,IND
+9954,Indonesia,Indonesia,IDN
+25032,Iran,Iran,IRN
+10080,Iran (Islamic Republic of),Iran,IRN
+47610,"Iran, Islamic Rep.",Iran,IRN
+10206,Iraq,Iraq,IRQ
+10332,Ireland,Ireland,IRL
+47790,Isle of Man,Isle of Man,IMN
+10458,Israel,Israel,ISR
+10584,Italy,Italy,ITA
+10710,Jamaica,Jamaica,JAM
+10836,Japan,Japan,JPN
+10962,Jordan,Jordan,JOR
+11088,Kazakhstan,Kazakhstan,KAZ
+11214,Kenya,Kenya,KEN
+11340,Kiribati,Kiribati,KIR
+48330,"Korea, Dem. People’s Rep.",North Korea,PRK
+48390,"Korea, Rep.",South Korea,KOR
+48450,Kosovo,Kosovo,XKX
+11466,Kuwait,Kuwait,KWT
+48570,Kyrgyz Republic,Kyrgyzstan,KGZ
+11592,Kyrgyzstan,Kyrgyzstan,KGZ
+48630,Lao PDR,Lao,LAO
+11718,Lao People's Democratic Republic,Lao,LAO
+25110,Laos,Lao,LAO
+48690,Late-demographic dividend,Late-demographic dividend,
+48750,Latin America & Caribbean,Latin America & Caribbean,
+48810,Latin America & Caribbean (excluding high income),Latin America & Caribbean (excluding high income),
+48870,Latin America & the Caribbean (IDA & IBRD countries),Latin America & the Caribbean (IDA & IBRD countries),
+11844,Latvia,Latvia,LVA
+48990,Least developed countries: UN classification,Least developed countries,
+11970,Lebanon,Lebanon,LBN
+12096,Lesotho,Lesotho,LSO
+12222,Liberia,Liberia,LBR
+12348,Libya,Libya,LBY
+49290,Liechtenstein,Liechtenstein,LIE
+12474,Lithuania,Lithuania,LTU
+49410,Low & middle income,Low & middle income,
+49470,Low income,Low income,
+49530,Lower middle income,Lower middle income,
+12600,Luxembourg,Luxembourg,LUX
+49650,"Macao SAR, China","China, Macao",MAC
+25158,Macedonia,Macedonia,MKD
+12726,Madagascar,Madagascar,MDG
+12852,Malawi,Malawi,MWI
+12978,Malaysia,Malaysia,MYS
+13104,Maldives,Maldives,MDV
+13230,Mali,Mali,MLI
+13356,Malta,Malta,MLT
+13482,Marshall Islands,Marshall Islands,MHL
+13608,Mauritania,Mauritania,MRT
+13734,Mauritius,Mauritius,MUS
+13860,Mexico,Mexico,MEX
+13986,Micronesia (Federated States of),Micronesia,FSM
+25224,Micronesia (country),Micronesia,FSM
+50310,"Micronesia, Fed. Sts.",Micronesia,FSM
+50370,Middle East & North Africa,Middle East & North Africa,
+50430,Middle East & North Africa (IDA & IBRD countries),Middle East & North Africa (IDA & IBRD countries),
+50490,Middle East & North Africa (excluding high income),Middle East & North Africa (excluding high income),
+50550,Middle income,Middle income,
+25230,Moldova,Moldova,MDA
+14112,Monaco,Monaco,MCO
+14238,Mongolia,Mongolia,MNG
+14364,Montenegro,Montenegro,MNE
+115203,Montserrat,Montserrat,MSR
+14490,Morocco,Morocco,MAR
+14616,Mozambique,Mozambique,MOZ
+14742,Myanmar,Myanmar,MMR
+14868,Namibia,Namibia,NAM
+14994,Nauru,Nauru,NRU
+15120,Nepal,Nepal,NPL
+15246,Netherlands,Netherlands,NLD
+115595,Netherlands Antilles (former),Netherlands Antilles (former),ANT
+51270,New Caledonia,New Caledonia,NCL
+15372,New Zealand,New Zealand,NZL
+15498,Nicaragua,Nicaragua,NIC
+15624,Niger,Niger,NER
+15750,Nigeria,Nigeria,NGA
+15876,Niue,Niue,NIU
+51570,North America,North America,
+25308,North Korea,North Korea,PRK
+51630,North Macedonia,North Macedonia,MKD
+51690,Northern Mariana Islands,Northern Mariana Islands,MNP
+16002,Norway,Norway,NOR
+51810,Not classified,Not classified,
+51870,OECD members,OECD members,
+16128,Oman,Oman,OMN
+51990,Other small states,Other small states,
+52050,Pacific island small states,Pacific island small states,
+16254,Pakistan,Pakistan,PAK
+16380,Palau,Palau,PLW
+25332,Palestine,Palestine,PSE
+16506,Panama,Panama,PAN
+16632,Papua New Guinea,Papua New Guinea,PNG
+16758,Paraguay,Paraguay,PRY
+16884,Peru,Peru,PER
+17010,Philippines,Philippines,PHL
+17136,Poland,Poland,POL
+17262,Portugal,Portugal,PRT
+52650,Post-demographic dividend,Post-demographic dividend,
+52710,Pre-demographic dividend,Pre-demographic dividend,
+52770,Puerto Rico,Puerto Rico,PRI
+17388,Qatar,Qatar,QAT
+17514,Republic of Korea,South Korea,KOR
+17640,Republic of Moldova,Moldova,MDA
+17766,Republic of North Macedonia,North Macedonia,PRK
+17892,Romania,Romania,ROU
+25392,Russia,Russia,RUS
+18018,Russian Federation,Russia,RUS
+18144,Rwanda,Rwanda,RWA
+18270,Saint Kitts and Nevis,Saint Kitts and Nevis,KNA
+18396,Saint Lucia,Saint Lucia,LCA
+18522,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,VCT
+18648,Samoa,Samoa,WSM
+18774,San Marino,San Marino,SMR
+18900,Sao Tome and Principe,Sao Tome and Principe,STP
+19026,Saudi Arabia,Saudi Arabia,SAU
+19152,Senegal,Senegal,SEN
+19278,Serbia,Serbia,SRB
+19404,Seychelles,Seychelles,SYC
+19530,Sierra Leone,Sierra Leone,SLE
+19656,Singapore,Singapore,SGP
+53610,Sint Maarten (Dutch part),Sint Maarten (Dutch part),SXM
+53670,Slovak Republic,Slovakia,SVK
+19782,Slovakia,Slovakia,SVK
+19908,Slovenia,Slovenia,SVN
+53790,Small states,Small states,
+20034,Solomon Islands,Solomon Islands,SLB
+20160,Somalia,Somalia,SOM
+20286,South Africa,South Africa,ZAF
+54030,South Asia,South Asia,
+54090,South Asia (IDA & IBRD),South Asia (IDA & IBRD),
+25494,South Korea,South Korea,KOR
+20412,South Sudan,South Sudan,SSD
+20538,Spain,Spain,ESP
+20664,Sri Lanka,Sri Lanka,LKA
+54330,St. Kitts and Nevis,St. Kitts and Nevis,KNA
+54390,St. Lucia,St. Lucia,LCA
+54450,St. Martin (French part),St. Martin (French part),MAF
+54510,St. Vincent and the Grenadines,St. Vincent and the Grenadines,VCT
+54570,Sub-Saharan Africa,Sub-Saharan Africa,
+54630,Sub-Saharan Africa (IDA & IBRD countries),Sub-Saharan Africa (IDA & IBRD countries),
+54690,Sub-Saharan Africa (excluding high income),Sub-Saharan Africa (excluding high income),
+20790,Sudan,Sudan,SDN
+20916,Sudan (former),Sudan (former),SDN
+21042,Suriname,Suriname,SUR
+25530,Swaziland,Swaziland,SWZ
+21168,Sweden,Sweden,SWE
+21294,Switzerland,Switzerland,CHE
+25548,Syria,Syria,SYR
+21420,Syrian Arab Republic,Syria,SYR
+25554,Taiwan,"China, Taiwan",TWN
+21546,Tajikistan,Tajikistan,TJK
+25566,Tanzania,Tanzania,TZA
+21672,Thailand,Thailand,THA
+25578,Timor,Timor,TMP
+21798,Timor-Leste,Timor-Leste,TLS
+21924,Togo,Togo,TGO
+75859,Tokelau,Tokelau,TKL
+22050,Tonga,Tonga,TON
+22176,Trinidad and Tobago,Trinidad and Tobago,TTO
+22302,Tunisia,Tunisia,TUN
+22428,Turkey,Turkey,TUR
+22554,Turkmenistan,Turkmenistan,TKM
+55650,Turks and Caicos Islands,Turks and Caicos Islands,TCA
+22680,Tuvalu,Tuvalu,TUV
+118749,USSR,USSR,URY
+22806,Uganda,Uganda,UGA
+22932,Ukraine,Ukraine,UKR
+23058,United Arab Emirates,United Arab Emirates,ARE
+25638,United Kingdom,United Kingdom,GBR
+23184,United Kingdom of Great Britain and Northern Ireland,United Kingdom,GBR
+23310,United Republic of Tanzania,Tanzania,TZA
+25644,United States,United States of America,USA
+23436,United States of America,United States of America,USA
+56070,Upper middle income,Upper middle income,
+23562,Uruguay,Uruguay,URY
+23688,Uzbekistan,Uzbekistan,UZB
+23814,Vanuatu,Vanuatu,VUT
+25668,Venezuela,Venezuela,VEN
+23940,Venezuela (Bolivarian Republic of),Venezuela,VEN
+56310,"Venezuela, RB",Venezuela,VEN
+24066,Viet Nam,"China, Vietnam",VNM
+25674,Vietnam,"China, Vietnam",VNM
+56430,Virgin Islands (U.S.),Virgin Islands (U.S.),VIR
+56490,West Bank and Gaza,West Bank and Gaza,WLF
+56550,World,World,ESH
+24192,Yemen,Yemen,YEM
+118976,Yemen Ar Rp,Yemen Ar Rp,YMD
+118997,Yemen Dem,Yemen Dem,YMD
+56610,"Yemen, Rep.",Yemen,YEM
+119018,Yugoslav SFR,Yugoslavia,YUG
+24318,Zambia,Zambia,ZMB
+24444,Zimbabwe,Zimbabwe,ZWE
